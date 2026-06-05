@@ -2,6 +2,9 @@
 
 A client-side file vault that encrypts your files and their metadata directly in the browser. Nothing ever leaves your device.
 
+![Lock screen](assets/lock.png)
+![Home screen](assets/home.png)
+
 ## What it does
 
 SecureVault lets you store files of any type (documents, images, audio, video, PDFs) in an encrypted container. The vault is a single `.vault` file you can save locally or move between devices. Decryption requires your secret key — without it, neither the file contents nor their names, types, or sizes are recoverable.
